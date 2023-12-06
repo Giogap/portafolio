@@ -1,0 +1,10 @@
+Back
+
+1. npx create-react-app frontlogin
+
+Server
+
+1. npm init
+2. npm install mysql
+3. npm install express
+4. Ejecutar servidor: node server.js

@@ -1,0 +1,10 @@
+CREATE DATABASE formulariop_db;
+
+CREATE TABLE IF NOT EXISTS datos (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nombre VARCHAR(255),
+    genero VARCHAR(50),
+    biografia TEXT,
+    pais VARCHAR(100),
+    numero_contacto VARCHAR(20)
+);

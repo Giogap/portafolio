@@ -9,4 +9,5 @@ server
 3. npm install mysql
 4. npm install express
 6. npm install cors
+8. npm install dotenv
 

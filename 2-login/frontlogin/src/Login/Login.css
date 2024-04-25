@@ -1,0 +1,32 @@
+.container {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+  }
+  
+  .login {
+    border: 1px solid #990000;
+    width: 400px;
+    padding: 20px;
+  }
+  
+  .data {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 15px;
+  }
+  
+  label {
+    display: block;
+    font-weight: bold;
+  }
+  
+  button {
+    background-color: #990000;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+  }
